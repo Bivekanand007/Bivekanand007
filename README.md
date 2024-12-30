@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bivekanand007</h1>
+
+<p align="center">
+  <img height="550" width="850" src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1677431973169?e=1741219200&v=beta&t=2kKPsnV1KkDR-CNrIU8nEyBvcaH7Q9O6G3bYGDROBLk" />
+</p>
+<h1 align="center">Hi 👋, I'm Bivekanand Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bivekanand007&label=Profile%20views&color=0e75b6&style=flat" alt="bivekanand007" /> </p>
